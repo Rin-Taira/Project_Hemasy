@@ -21,4 +21,3 @@ document.querySelector('.menu-btn').addEventListener('click', function(){
 });
 
 /*以下平良が使用するものです */
-/* record.jspで使用 */
